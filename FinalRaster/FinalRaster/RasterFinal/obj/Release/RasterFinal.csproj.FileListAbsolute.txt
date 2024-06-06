@@ -1,0 +1,14 @@
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\RasterFinal.exe.config
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\RasterFinal.exe.manifest
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\RasterFinal.application
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\RasterFinal.exe
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\RasterFinal.pdb
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\RasterFinal.csproj.AssemblyReference.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\RasterFinal.MyForm.resources
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\RasterFinal.Properties.Resources.resources
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\RasterFinal.csproj.GenerateResource.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\RasterFinal.csproj.CoreCompileInputs.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\RasterFinal.exe.manifest
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\RasterFinal.application
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\RasterFinal.exe
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\RasterFinal.pdb

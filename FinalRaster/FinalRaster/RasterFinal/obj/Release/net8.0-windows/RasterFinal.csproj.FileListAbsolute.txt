@@ -1,0 +1,40 @@
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.exe
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.dll.config
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.dll.manifest
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.application
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.deps.json
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.runtimeconfig.json
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.pdb
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.MyForm.resources
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.Properties.Resources.resources
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.csproj.GenerateResource.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.csproj.CoreCompileInputs.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.dll.manifest
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.application
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\refint\RasterFinal.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.pdb
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.genruntimeconfig.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\ref\RasterFinal.dll
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.exe
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.dll.config
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.dll.manifest
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.application
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.deps.json
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.runtimeconfig.json
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.dll
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\bin\Release\net8.0-windows\RasterFinal.pdb
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.MyForm.resources
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.Properties.Resources.resources
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.csproj.GenerateResource.cache
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.csproj.CoreCompileInputs.cache
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.dll.manifest
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.application
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.dll
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\refint\RasterFinal.dll
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.pdb
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\RasterFinal.genruntimeconfig.cache
+C:\Users\f126a\Downloads\RasterFinal\RasterFinal\RasterFinal\RasterFinal\obj\Release\net8.0-windows\ref\RasterFinal.dll

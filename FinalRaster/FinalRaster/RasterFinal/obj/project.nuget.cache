@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VYhBtD0PuF/hWouJ9Ta21wBejdvP7KNmwntOmtYGB/SFFi/w6c6u7O8B1nwo+bc05qoLHXsBysVihQqn/hKEQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\f126a\\Downloads\\RasterFinal\\RasterFinal\\RasterFinal\\RasterFinal\\RasterFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f126a\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\f126a\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

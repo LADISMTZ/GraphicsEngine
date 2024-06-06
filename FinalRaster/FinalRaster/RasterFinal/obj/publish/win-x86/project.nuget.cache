@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VsT4S9qZy5ZJoDuMv1LogOx+EbAMb6jp7SJGYYyDODlEfE9MFTDGy6sGlAqPQPxFZftgV1WTfPd7HFF4kz6SFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\f126a\\Downloads\\RasterFinal\\RasterFinal\\RasterFinal\\RasterFinal\\RasterFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f126a\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\f126a\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\f126a\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.4\\microsoft.netcore.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\f126a\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.4.nupkg.sha512",
+    "C:\\Users\\f126a\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x86.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
